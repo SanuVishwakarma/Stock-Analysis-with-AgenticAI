@@ -1,6 +1,6 @@
-# **🌟 Stock-Analysis-with-AgenticAI 🌟**  
+# **🌟 Stock Analysis with AgenticAI 🌟**  
 
-**Financial Agentic AI** redefines financial analysis by integrating cutting-edge AI with real-time web search capabilities. This multi-agent system brings together financial insights and web intelligence to deliver precise, actionable, and up-to-date stock market information, all tailored to your needs.  
+**Stock Analysis with AgenticAI** redefines financial analysis by integrating cutting-edge AI with real-time web search capabilities. This multi-agent system brings together financial insights and web intelligence to deliver precise, actionable, and up-to-date stock market information, all tailored to your needs.  
 
 ---
 
@@ -61,7 +61,7 @@
 ### **Step 1: Clone the Repository**  
 ```bash
 git clone https://github.com/SanuVishwakarma/Stock-Analysis-with-AgenticAI.git
-cd financial-agentic-ai
+cd Stock-Analysis-with-AgenticAI
 ```
 
 ### **Step 2: Install Dependencies**  
